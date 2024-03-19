@@ -31,7 +31,9 @@ dependencies:
   video_player: ^2.7.0
   chewie_for_us: ^1.5.0
   flutter_slidable: ^3.0.1
-  flutter_plugin_record_plus: any
+  flutter_plugin_record_plus:
+    git:
+      url: git@github.com:JamisonQian/flutter_plugin_record_plus.git
   azlistview_all_platforms: ^2.1.2
   lpinyin: ^2.0.3
   transparent_image: ^2.0.0
@@ -58,7 +60,7 @@ dependencies:
   crypto: ^3.0.2
   collection: any
   flutter_image_compress: any
-  uuid: any
+  uuid: ^4.3.3
   open_file: ^3.3.2
   tencent_keyboard_visibility: ^1.0.1
   tim_ui_kit_sticker_plugin: ^3.1.0

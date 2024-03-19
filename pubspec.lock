@@ -561,10 +561,11 @@ packages:
   flutter_plugin_record_plus:
     dependency: "direct main"
     description:
-      name: flutter_plugin_record_plus
-      sha256: "6e515bb54b996b64d177d7e8d252e0b03109e70f38b11bc1172aa56f530950c9"
-      url: "https://pub.flutter-io.cn"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: cacd9c7b1493250c2a5b8ff921b1651707036364
+      url: "git@github.com:JamisonQian/flutter_plugin_record_plus.git"
+    source: git
     version: "0.0.16"
   flutter_slidable:
     dependency: "direct main"
@@ -1264,6 +1265,14 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "1.10.0"
+  sprintf:
+    dependency: transitive
+    description:
+      name: sprintf
+      sha256: "1fc9ffe69d4df602376b52949af107d8f5703b77cda567c4d7d86a0693120f23"
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "7.0.0"
   sqflite:
     dependency: transitive
     description:
@@ -1508,10 +1517,10 @@ packages:
     dependency: "direct main"
     description:
       name: uuid
-      sha256: "648e103079f7c64a36dc7d39369cabb358d377078a051d6ae2ad3aa539519313"
+      sha256: cd210a09f7c18cbe5a02511718e0334de6559871052c90a90c0cca46a4aa81c8
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "3.0.7"
+    version: "4.3.3"
   vector_graphics:
     dependency: transitive
     description:

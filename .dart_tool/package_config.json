@@ -423,7 +423,7 @@
     },
     {
       "name": "flutter_plugin_record_plus",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/flutter_plugin_record_plus-0.0.16",
+      "rootUri": "file:///Users/qianjun/.pub-cache/git/flutter_plugin_record_plus-cacd9c7b1493250c2a5b8ff921b1651707036364/",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -956,6 +956,12 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "sprintf",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/sprintf-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "sqflite",
       "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.3.2",
       "packageUri": "lib/",
@@ -1137,9 +1143,9 @@
     },
     {
       "name": "uuid",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/uuid-3.0.7",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/uuid-4.3.3",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "vector_graphics",
@@ -1280,7 +1286,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-03-19T09:43:45.644116Z",
+  "generated": "2024-03-19T10:26:17.894600Z",
   "generator": "pub",
   "generatorVersion": "3.3.1"
 }
