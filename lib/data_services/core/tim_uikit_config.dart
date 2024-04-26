@@ -20,6 +20,8 @@ class TIMUIKitConfig {
   /// The configuration of border radius for all the avatar shows in TUIKit.
   final BorderRadius? defaultAvatarBorderRadius;
 
+  final bool enableRecording;
+
   /// You can use this function to customize the Modal that shows on desktop.
   /// Do not specified or return `false` will use our default implementation.
   final Future<bool> Function(
@@ -51,5 +53,6 @@ class TIMUIKitConfig {
     this.defaultAvatarBorderRadius,
     this.isCheckDiskStorageSpace = true,
     this.isShowOnlineStatus = true,
+    this.enableRecording = true
   });
 }

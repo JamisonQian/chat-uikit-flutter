@@ -90,43 +90,44 @@ class _PermissionRequestInfo extends TIMUIKitState<PermissionRequestInfo>
           child: SafeArea(
             child: Opacity(
               opacity: 0.7,
-              child: Container(
-                color: theme.black,
-                padding: const EdgeInsets.symmetric(horizontal: 40),
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.center,
-                  children: [
-                    const SizedBox(
-                      height: 50,
-                    ),
-                    SizedBox(
-                      height: 50,
-                      width: 50,
-                      child: Image.asset(
-                        permission?["icon"] ?? "",
-                        package: "tencent_cloud_chat_uikit",
-                      ),
-                    ),
-                    const SizedBox(
-                      height: 10,
-                    ),
-                    Text(
-                      TIM_t(widget.appName) +
-                          TIM_t_para(" 申请获取{{option2}}", " 申请获取$option2")(
-                              option2: option2) +
-                          TIM_t("权限"),
-                      style: TextStyle(color: theme.white, fontSize: 18),
-                    ),
-                    const SizedBox(
-                      height: 20,
-                    ),
-                    Text(
-                      permission?["text"] ?? "",
-                      style: TextStyle(color: theme.white, fontSize: 16),
-                    )
-                  ],
-                ),
-              ),
+              child: Container(),
+              // child: Container(
+              //   color: theme.black,
+              //   padding: const EdgeInsets.symmetric(horizontal: 40),
+              //   child: Column(
+              //     crossAxisAlignment: CrossAxisAlignment.center,
+              //     children: [
+              //       const SizedBox(
+              //         height: 50,
+              //       ),
+              //       SizedBox(
+              //         height: 50,
+              //         width: 50,
+              //         child: Image.asset(
+              //           permission?["icon"] ?? "",
+              //           package: "tencent_cloud_chat_uikit",
+              //         ),
+              //       ),
+              //       const SizedBox(
+              //         height: 10,
+              //       ),
+              //       Text(
+              //         TIM_t(widget.appName) +
+              //             TIM_t_para(" 申请获取{{option2}}", " 申请获取$option2")(
+              //                 option2: option2) +
+              //             TIM_t("权限"),
+              //         style: TextStyle(color: theme.white, fontSize: 18),
+              //       ),
+              //       const SizedBox(
+              //         height: 20,
+              //       ),
+              //       Text(
+              //         permission?["text"] ?? "",
+              //         style: TextStyle(color: theme.white, fontSize: 16),
+              //       )
+              //     ],
+              //   ),
+              // ),
             ),
           ),
           left: 0,
@@ -328,7 +329,12 @@ class Permissions {
           ],
         )
             : AlertDialog(
-          content: Text(permissionText),
+          content: Padding(
+            padding: const EdgeInsets.all(24),
+            child: Text(permissionText,textAlign: TextAlign.center),
+          ),
+          actionsPadding: EdgeInsets.zero,
+          contentPadding: EdgeInsets.zero,
           actions: <Widget>[
             const Divider(),
             SizedBox(
@@ -350,7 +356,7 @@ class Permissions {
                     child: TextButton(
                       child: Text(TIM_t("去开启"),
                           style: TextStyle(
-                            color: theme?.black ?? Colors.black,
+                            color: theme?.secondaryColor ?? Colors.black,
                           )),
                       onPressed: getPermission,
                     ),
