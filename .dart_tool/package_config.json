@@ -705,7 +705,7 @@
     },
     {
       "name": "package_info_plus",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/package_info_plus-7.0.0",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/package_info_plus-8.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -1209,7 +1209,7 @@
     },
     {
       "name": "wakelock_plus",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/wakelock_plus-1.2.4",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/wakelock_plus-1.2.5",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -1292,7 +1292,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-04-25T10:58:52.250666Z",
+  "generated": "2024-05-10T08:47:05.674524Z",
   "generator": "pub",
   "generatorVersion": "3.3.3"
 }
