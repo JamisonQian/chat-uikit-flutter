@@ -466,7 +466,7 @@ class _MorePanelState extends TIMUIKitState<MorePanel> {
       )) {
         return;
       }
-      if(_selfInfoViewModel.globalConfig?.enableRecording ?? true){
+      if(_selfInfoViewModel.globalConfig?.enableRecording == true){
         await Permissions.checkPermission(
           context,
           Permission.microphone.value,
@@ -474,6 +474,8 @@ class _MorePanelState extends TIMUIKitState<MorePanel> {
         );
 
       }
+
+
       if (PlatformUtils().isAndroid) {
         AndroidDeviceInfo androidInfo = await deviceInfo.androidInfo;
         if ((androidInfo.version.sdkInt) >= 33) {
