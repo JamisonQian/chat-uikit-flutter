@@ -21,9 +21,9 @@
     },
     {
       "name": "args",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/args-2.4.2",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/args-2.5.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "async",
@@ -63,9 +63,9 @@
     },
     {
       "name": "build_daemon",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/build_daemon-4.0.1",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/build_daemon-4.0.2",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.4"
     },
     {
       "name": "build_resolvers",
@@ -75,9 +75,9 @@
     },
     {
       "name": "build_runner",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/build_runner-2.4.9",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/build_runner-2.4.10",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.4"
     },
     {
       "name": "build_runner_core",
@@ -111,19 +111,19 @@
     },
     {
       "name": "cached_network_image_web",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/cached_network_image_web-1.1.1",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/cached_network_image_web-1.2.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "camera",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/camera-0.10.5+9",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/camera-0.10.6",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "camera_android",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/camera_android-0.10.9+1",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/camera_android-0.10.9+2",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     },
@@ -321,7 +321,7 @@
     },
     {
       "name": "file_picker",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/file_picker-8.0.2",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/file_picker-8.0.3",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -333,9 +333,9 @@
     },
     {
       "name": "file_selector_macos",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/file_selector_macos-0.9.3+3",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/file_selector_macos-0.9.4",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "file_selector_platform_interface",
@@ -375,7 +375,7 @@
     },
     {
       "name": "flutter_image_compress",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/flutter_image_compress-2.2.0",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/flutter_image_compress-2.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -393,7 +393,7 @@
     },
     {
       "name": "flutter_image_compress_ohos",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/flutter_image_compress_ohos-0.0.2",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/flutter_image_compress_ohos-0.0.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -519,13 +519,13 @@
     },
     {
       "name": "image_picker",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/image_picker-1.1.0",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/image_picker-1.1.1",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
     {
       "name": "image_picker_android",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/image_picker_android-0.8.10",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/image_picker_android-0.8.12+1",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -537,7 +537,7 @@
     },
     {
       "name": "image_picker_ios",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/image_picker_ios-0.8.10+1",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/image_picker_ios-0.8.11+2",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -591,21 +591,21 @@
     },
     {
       "name": "just_audio",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/just_audio-0.9.37",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/just_audio-0.9.38",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "just_audio_platform_interface",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/just_audio_platform_interface-4.2.2",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/just_audio_platform_interface-4.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "just_audio_web",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/just_audio_web-0.4.9",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/just_audio_web-0.4.11",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.2"
     },
     {
       "name": "link_preview_generator_for_us",
@@ -627,7 +627,7 @@
     },
     {
       "name": "logger",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/logger-2.2.0",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/logger-2.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -753,9 +753,9 @@
     },
     {
       "name": "path_provider_foundation",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/path_provider_foundation-2.3.2",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/path_provider_foundation-2.4.0",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "path_provider_linux",
@@ -783,7 +783,7 @@
     },
     {
       "name": "permission_handler_android",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_android-12.0.5",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_android-12.0.6",
       "packageUri": "lib/",
       "languageVersion": "2.15"
     },
@@ -819,7 +819,7 @@
     },
     {
       "name": "photo_manager",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/photo_manager-3.0.0",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/photo_manager-3.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.13"
     },
@@ -885,9 +885,9 @@
     },
     {
       "name": "sensors_plus",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/sensors_plus-4.0.2",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/sensors_plus-5.0.1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.3"
     },
     {
       "name": "sensors_plus_platform_interface",
@@ -897,9 +897,9 @@
     },
     {
       "name": "shared_preferences",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-2.2.2",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-2.2.3",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "shared_preferences_android",
@@ -909,9 +909,9 @@
     },
     {
       "name": "shared_preferences_foundation",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_foundation-2.3.5",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_foundation-2.4.0",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "shared_preferences_linux",
@@ -945,9 +945,9 @@
     },
     {
       "name": "shelf_web_socket",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/shelf_web_socket-1.0.4",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/shelf_web_socket-2.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "sky_engine",
@@ -969,7 +969,7 @@
     },
     {
       "name": "sqflite",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.3.3",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.3.3+1",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -1017,13 +1017,13 @@
     },
     {
       "name": "tencent_cloud_chat_sdk",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/tencent_cloud_chat_sdk-7.9.5685",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/tencent_cloud_chat_sdk-7.9.5686",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "tencent_cloud_uikit_core",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/tencent_cloud_uikit_core-1.6.2",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/tencent_cloud_uikit_core-1.6.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -1107,13 +1107,13 @@
     },
     {
       "name": "url_launcher_android",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_android-6.3.0",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_android-6.3.2",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "url_launcher_ios",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_ios-6.2.5",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_ios-6.3.0",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -1125,9 +1125,9 @@
     },
     {
       "name": "url_launcher_macos",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_macos-3.1.0",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_macos-3.2.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "url_launcher_platform_interface",
@@ -1137,7 +1137,7 @@
     },
     {
       "name": "url_launcher_web",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_web-2.3.0",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_web-2.3.1",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -1185,13 +1185,13 @@
     },
     {
       "name": "video_player_android",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/video_player_android-2.4.12",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/video_player_android-2.4.14",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "video_player_avfoundation",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/video_player_avfoundation-2.5.6",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/video_player_avfoundation-2.6.1",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -1232,8 +1232,14 @@
       "languageVersion": "3.3"
     },
     {
+      "name": "web_socket",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/web_socket-0.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
       "name": "web_socket_channel",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/web_socket_channel-2.4.5",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/web_socket_channel-3.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -1245,7 +1251,7 @@
     },
     {
       "name": "wechat_camera_picker",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/wechat_camera_picker-4.2.1",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/wechat_camera_picker-4.2.2",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -1257,9 +1263,9 @@
     },
     {
       "name": "win32",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/win32-5.4.0",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/win32-5.5.1",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.4"
     },
     {
       "name": "win32_registry",
@@ -1292,7 +1298,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-05-16T09:16:50.107079Z",
+  "generated": "2024-05-24T08:59:13.406339Z",
   "generator": "pub",
   "generatorVersion": "3.4.0",
   "flutterRoot": "file:///Users/qianjun/flutter",
