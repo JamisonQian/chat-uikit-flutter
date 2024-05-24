@@ -334,7 +334,7 @@
         <entry key="extended_text_field">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/extended_text_field-14.0.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/extended_text_field-15.0.0/lib" />
             </list>
           </value>
         </entry>
@@ -775,7 +775,7 @@
         <entry key="meta">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/meta-1.11.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/meta-1.12.0/lib" />
             </list>
           </value>
         </entry>
@@ -1551,7 +1551,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/extended_image-8.2.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/extended_image_library-4.0.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/extended_text-13.0.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/extended_text_field-14.0.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/extended_text_field-15.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/extended_text_library-12.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/fast_i18n-5.12.6/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/fc_native_video_thumbnail-0.8.0/lib" />
@@ -1611,7 +1611,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/markdown-7.2.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/matcher-0.12.16+1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/material_color_utilities-0.8.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/meta-1.11.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/meta-1.12.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/mime-1.0.5/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/mime_type-1.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/nested-1.0.0/lib" />
