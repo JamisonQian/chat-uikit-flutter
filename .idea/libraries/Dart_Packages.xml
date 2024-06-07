@@ -26,7 +26,7 @@
         <entry key="args">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/args-2.4.2/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/args-2.5.0/lib" />
             </list>
           </value>
         </entry>
@@ -75,7 +75,7 @@
         <entry key="build_daemon">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/build_daemon-4.0.1/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/build_daemon-4.0.2/lib" />
             </list>
           </value>
         </entry>
@@ -89,7 +89,7 @@
         <entry key="build_runner">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/build_runner-2.4.9/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/build_runner-2.4.10/lib" />
             </list>
           </value>
         </entry>
@@ -131,21 +131,21 @@
         <entry key="cached_network_image_web">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/cached_network_image_web-1.1.1/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/cached_network_image_web-1.2.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="camera">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/camera-0.10.5+9/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/camera-0.10.6/lib" />
             </list>
           </value>
         </entry>
         <entry key="camera_android">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/camera_android-0.10.9+1/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/camera_android-0.10.9+2/lib" />
             </list>
           </value>
         </entry>
@@ -376,7 +376,7 @@
         <entry key="file_picker">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/file_picker-8.0.2/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/file_picker-8.0.3/lib" />
             </list>
           </value>
         </entry>
@@ -390,7 +390,7 @@
         <entry key="file_selector_macos">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/file_selector_macos-0.9.3+3/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/file_selector_macos-0.9.4/lib" />
             </list>
           </value>
         </entry>
@@ -439,7 +439,7 @@
         <entry key="flutter_image_compress">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_image_compress-2.2.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_image_compress-2.3.0/lib" />
             </list>
           </value>
         </entry>
@@ -460,7 +460,7 @@
         <entry key="flutter_image_compress_ohos">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_image_compress_ohos-0.0.2/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_image_compress_ohos-0.0.3/lib" />
             </list>
           </value>
         </entry>
@@ -607,14 +607,14 @@
         <entry key="image_picker">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/image_picker-1.1.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/image_picker-1.1.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="image_picker_android">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/image_picker_android-0.8.10/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/image_picker_android-0.8.12+1/lib" />
             </list>
           </value>
         </entry>
@@ -628,7 +628,7 @@
         <entry key="image_picker_ios">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/image_picker_ios-0.8.10+1/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/image_picker_ios-0.8.11+2/lib" />
             </list>
           </value>
         </entry>
@@ -691,21 +691,21 @@
         <entry key="just_audio">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/just_audio-0.9.37/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/just_audio-0.9.38/lib" />
             </list>
           </value>
         </entry>
         <entry key="just_audio_platform_interface">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/just_audio_platform_interface-4.2.2/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/just_audio_platform_interface-4.3.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="just_audio_web">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/just_audio_web-0.4.9/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/just_audio_web-0.4.11/lib" />
             </list>
           </value>
         </entry>
@@ -733,7 +733,7 @@
         <entry key="logger">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/logger-2.2.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/logger-2.3.0/lib" />
             </list>
           </value>
         </entry>
@@ -880,7 +880,7 @@
         <entry key="path_provider_foundation">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/path_provider_foundation-2.3.2/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/path_provider_foundation-2.4.0/lib" />
             </list>
           </value>
         </entry>
@@ -915,7 +915,7 @@
         <entry key="permission_handler_android">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_android-12.0.5/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_android-12.0.6/lib" />
             </list>
           </value>
         </entry>
@@ -957,7 +957,7 @@
         <entry key="photo_manager">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/photo_manager-3.0.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/photo_manager-3.1.1/lib" />
             </list>
           </value>
         </entry>
@@ -1034,7 +1034,7 @@
         <entry key="sensors_plus">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/sensors_plus-4.0.2/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/sensors_plus-5.0.1/lib" />
             </list>
           </value>
         </entry>
@@ -1048,7 +1048,7 @@
         <entry key="shared_preferences">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-2.2.2/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-2.2.3/lib" />
             </list>
           </value>
         </entry>
@@ -1062,7 +1062,7 @@
         <entry key="shared_preferences_foundation">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_foundation-2.3.5/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_foundation-2.4.0/lib" />
             </list>
           </value>
         </entry>
@@ -1104,7 +1104,7 @@
         <entry key="shelf_web_socket">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/shelf_web_socket-1.0.4/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/shelf_web_socket-2.0.0/lib" />
             </list>
           </value>
         </entry>
@@ -1132,7 +1132,7 @@
         <entry key="sqflite">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.3.3/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.3.3+1/lib" />
             </list>
           </value>
         </entry>
@@ -1188,14 +1188,14 @@
         <entry key="tencent_cloud_chat_sdk">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/tencent_cloud_chat_sdk-7.9.5685/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/tencent_cloud_chat_sdk-7.9.5686/lib" />
             </list>
           </value>
         </entry>
         <entry key="tencent_cloud_uikit_core">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/tencent_cloud_uikit_core-1.6.2/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/tencent_cloud_uikit_core-1.6.3/lib" />
             </list>
           </value>
         </entry>
@@ -1293,14 +1293,14 @@
         <entry key="url_launcher_android">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_android-6.3.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_android-6.3.2/lib" />
             </list>
           </value>
         </entry>
         <entry key="url_launcher_ios">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_ios-6.2.5/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_ios-6.3.0/lib" />
             </list>
           </value>
         </entry>
@@ -1314,7 +1314,7 @@
         <entry key="url_launcher_macos">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_macos-3.1.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_macos-3.2.0/lib" />
             </list>
           </value>
         </entry>
@@ -1328,7 +1328,7 @@
         <entry key="url_launcher_web">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_web-2.3.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_web-2.3.1/lib" />
             </list>
           </value>
         </entry>
@@ -1384,14 +1384,14 @@
         <entry key="video_player_android">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/video_player_android-2.4.12/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/video_player_android-2.4.14/lib" />
             </list>
           </value>
         </entry>
         <entry key="video_player_avfoundation">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/video_player_avfoundation-2.5.6/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/video_player_avfoundation-2.6.1/lib" />
             </list>
           </value>
         </entry>
@@ -1437,10 +1437,17 @@
             </list>
           </value>
         </entry>
+        <entry key="web_socket">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/web_socket-0.1.4/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="web_socket_channel">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/web_socket_channel-2.4.5/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/web_socket_channel-3.0.0/lib" />
             </list>
           </value>
         </entry>
@@ -1454,7 +1461,7 @@
         <entry key="wechat_camera_picker">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/wechat_camera_picker-4.2.1/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/wechat_camera_picker-4.2.2/lib" />
             </list>
           </value>
         </entry>
@@ -1468,7 +1475,7 @@
         <entry key="win32">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/win32-5.4.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/win32-5.5.1/lib" />
             </list>
           </value>
         </entry>
@@ -1507,24 +1514,24 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/_fe_analyzer_shared-67.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/adaptive_action_sheet-2.0.3/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/analyzer-6.4.1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/args-2.4.2/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/args-2.5.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/async-2.11.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/audio_session-0.1.19/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/azlistview_all_platforms-2.1.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/boolean_selector-2.1.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/build-2.4.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/build_config-1.1.1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/build_daemon-4.0.1/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/build_daemon-4.0.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/build_resolvers-2.4.2/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/build_runner-2.4.9/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/build_runner-2.4.10/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/build_runner_core-7.3.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/built_collection-5.1.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/built_value-8.9.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/cached_network_image-3.3.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/cached_network_image_platform_interface-4.0.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/cached_network_image_web-1.1.1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/camera-0.10.5+9/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/camera_android-0.10.9+1/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/cached_network_image_web-1.2.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/camera-0.10.6/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/camera_android-0.10.9+2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/camera_avfoundation-0.9.16/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/camera_platform_interface-2.7.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/camera_web-0.3.3/lib" />
@@ -1557,18 +1564,18 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/fc_native_video_thumbnail-0.8.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/ffi-2.1.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/file-6.1.4/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/file_picker-8.0.2/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/file_picker-8.0.3/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/file_selector_linux-0.9.2+1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/file_selector_macos-0.9.3+3/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/file_selector_macos-0.9.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/file_selector_platform_interface-2.6.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/file_selector_windows-0.9.3+1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/fixnum-1.1.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_cache_manager-3.3.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_easyrefresh-2.2.2/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_image_compress-2.2.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_image_compress-2.3.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_image_compress_common-1.0.5/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_image_compress_macos-1.0.2/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_image_compress_ohos-0.0.2/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_image_compress_ohos-0.0.3/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_image_compress_platform_interface-1.0.5/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_image_compress_web-0.1.4+1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_lints-1.0.4/lib" />
@@ -1587,10 +1594,10 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/http_parser-4.0.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/image_clipboard-1.0.0+2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/image_gallery_saver-2.0.3/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/image_picker-1.1.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/image_picker_android-0.8.10/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/image_picker-1.1.1/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/image_picker_android-0.8.12+1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/image_picker_for_web-3.0.3/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/image_picker_ios-0.8.10+1/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/image_picker_ios-0.8.11+2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/image_picker_linux-0.2.1+1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/image_picker_macos-0.2.1+1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/image_picker_platform_interface-2.10.0/lib" />
@@ -1599,13 +1606,13 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/io-1.0.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/js-0.6.7/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/json_annotation-4.9.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/just_audio-0.9.37/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/just_audio_platform_interface-4.2.2/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/just_audio_web-0.4.9/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/just_audio-0.9.38/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/just_audio_platform_interface-4.3.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/just_audio_web-0.4.11/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/link_preview_generator_for_us-2.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/lints-1.0.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/loading_animation_widget-1.2.1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/logger-2.2.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/logger-2.3.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/logging-1.2.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/lpinyin-2.0.3/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/markdown-7.2.2/lib" />
@@ -1626,18 +1633,18 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/path_parsing-1.0.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/path_provider-2.1.3/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/path_provider_android-2.2.4/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/path_provider_foundation-2.3.2/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/path_provider_foundation-2.4.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/path_provider_linux-2.2.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/path_provider_platform_interface-2.1.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/path_provider_windows-2.2.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/permission_handler-11.3.1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_android-12.0.5/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_android-12.0.6/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.4.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_html-0.1.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_platform_interface-4.2.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_windows-0.2.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/petitparser-6.0.2/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/photo_manager-3.0.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/photo_manager-3.1.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/photo_manager_image_provider-2.1.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/platform-3.1.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/plugin_platform_interface-2.1.8/lib" />
@@ -1648,20 +1655,20 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/rxdart-0.27.7/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/scroll_to_index-2.1.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/scrollable_positioned_list_for_us-0.4.2/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/sensors_plus-4.0.2/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/sensors_plus-5.0.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/sensors_plus_platform_interface-1.2.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-2.2.2/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-2.2.3/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_android-2.2.1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_foundation-2.3.5/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_foundation-2.4.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_linux-2.3.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_platform_interface-2.3.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_web-2.3.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_windows-2.3.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/shelf-1.4.1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/shelf_web_socket-1.0.4/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/shelf_web_socket-2.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/source_span-1.10.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/sprintf-7.0.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.3.3/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.3.3+1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/sqflite_common-2.5.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/stack_trace-1.11.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/stream_channel-2.1.2/lib" />
@@ -1669,8 +1676,8 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/string_scanner-1.2.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/synchronized-3.1.0+1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/tencent_chat_i18n_tool-2.3.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/tencent_cloud_chat_sdk-7.9.5685/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/tencent_cloud_uikit_core-1.6.2/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/tencent_cloud_chat_sdk-7.9.5686/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/tencent_cloud_uikit_core-1.6.3/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/tencent_im_base-3.3.775297/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/tencent_keyboard_visibility-1.0.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/tencent_super_tooltip-0.0.1/lib" />
@@ -1684,12 +1691,12 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/universal_html-2.2.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/universal_io-2.2.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-6.2.6/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_android-6.3.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_ios-6.2.5/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_android-6.3.2/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_ios-6.3.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_linux-3.1.1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_macos-3.1.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_macos-3.2.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_platform_interface-2.3.2/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_web-2.3.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_web-2.3.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_windows-3.1.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/uuid-4.4.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/vector_graphics-1.1.11+1/lib" />
@@ -1697,19 +1704,20 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/vector_graphics_compiler-1.1.11+1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/vector_math-2.1.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/video_player-2.8.6/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/video_player_android-2.4.12/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/video_player_avfoundation-2.5.6/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/video_player_android-2.4.14/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/video_player_avfoundation-2.6.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/video_player_platform_interface-6.2.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/video_player_web-2.3.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/wakelock_plus-1.2.5/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/wakelock_plus_platform_interface-1.2.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/watcher-1.1.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/web-0.5.1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/web_socket_channel-2.4.5/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/web_socket-0.1.4/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/web_socket_channel-3.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/wechat_assets_picker-8.9.0-dev.1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/wechat_camera_picker-4.2.1/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/wechat_camera_picker-4.2.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/wechat_picker_library-1.0.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/win32-5.4.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/win32-5.5.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/win32_registry-1.1.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/xdg_directories-1.0.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/xml-6.5.0/lib" />
