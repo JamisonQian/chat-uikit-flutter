@@ -1,3 +1,5 @@
+import 'dart:ui';
+
 import 'package:tencent_cloud_chat_uikit/business_logic/view_models/tui_chat_global_model.dart';
 import 'package:tencent_cloud_chat_uikit/tencent_cloud_chat_uikit.dart';
 
@@ -243,6 +245,10 @@ class TIMUIKitChatConfig {
   /// [Default]: 400
   final double desktopStickerPanelHeight;
 
+  final Color? sendButtonContainerColor;
+  final Color? sendButtonContentColor;
+  final double sendButtonRadius;
+
   const TIMUIKitChatConfig(
       {this.onTapLink,
       this.timeDividerConfig,
@@ -262,7 +268,7 @@ class TIMUIKitChatConfig {
       this.isUseMessageReaction = true,
       this.isShowAvatar = true,
       this.isShowSelfNameInGroup = false,
-        this.isAtWhenReplyDynamic,
+      this.isAtWhenReplyDynamic,
       this.offlinePushInfo,
       @Deprecated("Please use [isShowGroupReadingStatus] instead")
       this.isShowGroupMessageReadReceipt = true,
@@ -291,5 +297,8 @@ class TIMUIKitChatConfig {
       this.showC2cMessageEditStatus = true,
       this.additionalDesktopControlBarItems,
       this.isAllowLongPressAvatarToAt = true,
-      this.isUseDefaultEmoji = false});
+      this.isUseDefaultEmoji = false,
+      this.sendButtonContainerColor,
+      this.sendButtonContentColor,
+      this.sendButtonRadius = 16});
 }
