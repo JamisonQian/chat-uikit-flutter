@@ -1454,7 +1454,7 @@
         <entry key="wechat_assets_picker">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/wechat_assets_picker-8.9.0-dev.1/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/wechat_assets_picker-9.1.0/lib" />
             </list>
           </value>
         </entry>
@@ -1714,7 +1714,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/web-0.5.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/web_socket-0.1.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/web_socket_channel-3.0.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/wechat_assets_picker-8.9.0-dev.1/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/wechat_assets_picker-9.1.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/wechat_camera_picker-4.2.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/wechat_picker_library-1.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/win32-5.5.1/lib" />

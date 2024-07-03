@@ -399,9 +399,11 @@ class _MorePanelState extends TIMUIKitState<MorePanel> {
 
       final convID = widget.conversationID;
       final convType = widget.conversationType;
-
+      debugPrint("选择照片");
       if (PlatformUtils().isMobile) {
-        final pickedAssets = await AssetPicker.pickAssets(context);
+        final pickedAssets = await AssetPicker.pickAssets(context,pickerConfig: AssetPickerConfig(
+            limitedPermissionOverlayPredicate: (_)=> false
+        ));
 
         if (pickedAssets != null) {
           for (var asset in pickedAssets) {

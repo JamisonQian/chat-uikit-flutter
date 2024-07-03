@@ -234,6 +234,7 @@ class Permissions {
         bool isShowPermissionPage = true,
       ]) async {
     final status = await Permission.byValue(value).status;
+    debugPrint("status:$status");
     if (status.isGranted || status.isLimited) {
       return true;
     }
@@ -300,11 +301,11 @@ class Permissions {
     final permissionText = _permissionText(context, appName, value);
 
     void closeDialog() {
-      Navigator.of(context).pop(false);
+      Navigator.of(context,rootNavigator: true).pop(false);
     }
 
     void getPermission() async {
-      Navigator.of(context).pop(false);
+      Navigator.of(context,rootNavigator: true).pop(false);
       openAppSettings();
     }
 
