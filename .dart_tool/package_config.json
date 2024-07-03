@@ -1245,7 +1245,7 @@
     },
     {
       "name": "wechat_assets_picker",
-      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/wechat_assets_picker-8.9.0-dev.1",
+      "rootUri": "file:///Users/qianjun/.pub-cache/hosted/pub.flutter-io.cn/wechat_assets_picker-9.1.0",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -1298,7 +1298,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-06-20T06:00:42.908385Z",
+  "generated": "2024-07-03T06:38:32.889443Z",
   "generator": "pub",
   "generatorVersion": "3.4.0",
   "flutterRoot": "file:///Users/qianjun/flutter",
